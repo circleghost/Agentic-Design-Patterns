@@ -1,5 +1,9 @@
 # Agentic Design Patterns
 
+**🌐 Language / 語言選擇:**
+- **English** (you are here)
+- **[繁體中文 (Traditional Chinese)](https://github.com/circleghost/Agentic-Design-Patterns/tree/zh-tw)** - Translated by Claude
+
 This repository contains the full text of the book "Agentic Design Patterns" by Antonio Gulli and Mauro Sauco. The content has been compiled and organized by Tom Mathews  for easy access and reference for the community.
 
 ![Agentic Design Patterns - Book Cover](assets/Agentic_Design_Patterns_Book_Cover.png)
