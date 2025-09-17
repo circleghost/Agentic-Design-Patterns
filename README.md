@@ -1,9 +1,23 @@
 # 智能體設計模式 (繁體中文版)
 
+> 🌏 **[English Version](https://github.com/circleghost/Agentic-Design-Patterns/tree/main)** | **繁體中文版**
+
 此儲存庫包含 Antonio Gulli 和 Mauro Sauco 所著《智能體設計模式》一書的完整繁體中文翻譯。該內容已由 Tom Mathews 編譯和組織，並翻譯為繁體中文，方便華語社群輕鬆存取和參考。
 
-> **原始專案：** [Agentic Design Patterns (英文版)](https://github.com/circleghost/Agentic-Design-Patterns)  
-> **翻譯說明：** 本翻譯遵循台灣繁體中文的術語和用語習慣，適合台灣及其他華語地區的 AI 從業者閱讀。
+## 🤖 關於本翻譯
+
+**翻譯資訊：**
+- 🤖 **翻譯者**: Claude (Anthropic's AI Assistant)
+- 📅 **翻譯完成日期**: 2025年9月17日
+- 🌍 **目標讀者**: 台灣及華語地區 AI 從業者
+- 📖 **原始作者**: Antonio Gulli & Mauro Sauco
+- 📝 **編譯者**: Tom Mathews
+
+**翻譯特色：**
+- ✅ 遵循台灣繁體中文的術語和用語習慣
+- ✅ 保持原始技術精確度
+- ✅ 適合華語 AI 從業者閱讀
+- ✅ 完整保留原文格式和引用
 
 ![智能體設計模式 - 書籍封面](assets/Agentic_Design_Patterns_Book_Cover.png)
 
@@ -94,8 +108,26 @@
 - [附錄 F：深入探討：智能體推理引擎內部運作](05-Appendix/Appendix_F-Under_the_Hood_An_Inside_Look_at_the_Agents_Reasoning_Engines.md)
 - [附錄 G：程式設計智能體](05-Appendix/Appendix_G-Coding_Agents.md)
 
-## 授權條款
+## 💝 致謝與貢獻
+
+本繁體中文翻譯由 **Claude (Anthropic's AI Assistant)** 完成，感謝：
+
+- **原始作者**: Antonio Gulli & Mauro Sauco - 創作了這本優秀的智能體設計指南
+- **編譯者**: Tom Mathews - 將內容組織並開源分享給社群
+- **翻譯者**: Claude - 提供準確的繁體中文翻譯，讓華語社群能夠受益
+
+如果本翻譯對你有幫助，歡迎：
+- ⭐ 為專案標星
+- 🐛 回報翻譯問題
+- 💡 提出改進建議
+- 🤝 參與貢獻改善
+
+## 📄 授權條款
 
 此儲存庫採用 [MIT 授權條款](LICENSE)。
+
+---
+
+**🤖 本翻譯由 Claude (Anthropic) AI 助理協助完成 | Generated with AI assistance from Claude**
 
 ![智能體設計模式](assets/Agentic_Design_Patterns.png)
